@@ -9,3 +9,5 @@
 [selfie]: IMG_20180129_125611.jpg
 
 2. Tell me something interesting about yourself
+
+I'm a junior ECE. I came to Rowan on the basketball team and ECE but it didn't work out. I play guitar, and like to speedsolve the rubik's cube.
